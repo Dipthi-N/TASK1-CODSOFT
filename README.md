@@ -7,8 +7,8 @@ Welcome to my personal portfolio! This repository contains various projects that
 - [AboutMe]
 - [Projects]
 - [Resume]
-- [Skills](#skills)
-- [Contact](#contact)
+- [Skills]
+- [Contact]
 
 ## About Me
 A brief intro about myself.
